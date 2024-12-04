@@ -8,3 +8,15 @@
 body {
     font-family: 'MyCustomFont', monospace;
 }
+
+.text-large {
+    font-size: 20px;
+}
+
+.text-medium {
+    font-size: 18px;
+}
+
+.text-small {
+    font-size: 16px;
+}
